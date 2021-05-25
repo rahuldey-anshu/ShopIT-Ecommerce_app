@@ -1,0 +1,226 @@
+[
+    {
+        "name" : "Sandisk memory card",
+        "price" :"45.89",
+        "description" :"SanDisk Ultra microSDXC UHS-I Card with Adapter SanDisk Ultra microSDXC and microSDHC cards are fast for better pictures, app performance, and Full HD video.(1) Ideal for Android smartphones and tablets, these A1-rated cards load apps faster for a better smartphone experience. SanDisk products are constructed to the highest standards and rigorously tested. You can be confident in the outstanding quality, performance and reliability of every SanDisk product.",
+        "ratings": 4.5,
+        "images" :[{
+            "public_id" : "v1610036343/Sony_DSC-RX100_gg4uom ",
+            "url" : "https://res.cloudinary.com/dwimpn0nk/image/upload/v1610036343/Sony_DSC-RX100_gg4uom.jpg"
+            }],
+            "category" : "Electronics",
+            "seller" : "Amazon",
+            "stock" : 50,
+            "numOfReviews" : 32,
+            "reviews" :[]
+    },
+
+    {
+        "name" : "Sony DSC-RX100 Cybershot 20.2MP Point & Shoot Digital Camera ",
+        "price" :"22.00",
+        "description" :"Compact design with powerful pictures",
+        "ratings": 4.5,
+        "images" :[{
+            "public_id" : " v1610036343/Sony_DSC-RX100_gg4uom",
+            "url" : "https://res.cloudinary.com/dwimpn0nk/image/upload/v1610036343/Sony_DSC-RX100_gg4uom.jpg"
+            }],
+            "category" : "Cameras",
+            "seller" : "Amazon",
+            "stock" : 50,
+            "numOfReviews" : 32,
+            "reviews" :[]
+    },
+    {
+        "name" : "Nokia 5.3 Android One Smartphone",
+        "price" :"87.00",
+        "description" :"Go big and beyond with Nokia 5.3. From its quad camera, ultra-wide lens and the power of AI imaging built in, you won’t miss a moment, plus your shots will look absolutely stunning. Into gaming and videos? Good, because the HD+ display is out of this world at an epic 6.55 inches. Say goodbye to battery anxiety with a powerful and AI-assisted 4000 mAh Adaptive Battery, ",
+        "ratings": 4.5,
+        "images" :[{
+            "public_id" : " v1610036343/Sony_DSC-RX100_gg4uom",
+            "url" : "https://res.cloudinary.com/dwimpn0nk/image/upload/v1610036343/Sony_DSC-RX100_gg4uom.jpg"
+            }],
+            "category" : "Cameras",
+            "seller" : "Amazon",
+            "stock" : 55,
+            "numOfReviews" : 38,
+            "reviews" :[]
+    },
+    {
+        "name" : "CAN USB FD Adapter (GC-CAN-USB-FD)",
+        "price" : "315.00",
+        "description" : "Monitor a CAN network, write a CAN program and communicate with industrial, medical, automotive or other CAN based device. Connect CAN FD and CAN networks to a computer via USB with the CAN USB FD adapter.",
+        "ratings" : 1.65,
+        "images" : [{
+            "public_id" : "products/l2bd3hhy8dds1cxstuuz",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231284/products/l2bd3hhy8dds1cxstuuz.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 0,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "CHARMOUNT Full Motion TV Wall Mount Swivel",
+        "price" : "26.99 ",
+        "description" : "CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3). CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3) CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3).",
+        "ratings" : 3.5,
+        "images" : [{
+            "public_id" : "products/chairmount_nuubea",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/chairmount_nuubea.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 1,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+        "price" : "299.00 ",
+        "description" : "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work, or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II. Put them on and get closer to what you’re most passionate about. And that’s just the beginning. QuietComfort 35 wireless headphones II are now enabled with Bose AR",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/headphones_t2afnb",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/headphones_t2afnb.jpg"
+        }],
+        "category" : "Headphones",
+        "seller" : "Amazon",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "Apple AirPods with Charging Case (Wired)",
+        "price" : "126.99 ",
+        "description" : "AirPods with Charging Case: More than 24 hours listening time, up to 18 hours talk time; AirPods (single charge): Up to 5 hours listening time, up to 3 hours talk time or 15 minutes in the case equals up to 3 hours listening time or up to 2 hours talk time.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "products/airpords_e5cqqr",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : 122,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+    {
+        "name" : "Nivia Vega Football",
+        "price" : "666.00 ",
+        "description" : " Nivia Vega Football",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "products/airpords_e5cqqr",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+        }],
+        "category" : "Sports",
+        "seller" : "Amazon",
+        "stock" : 122,
+        "numOfReviews" : 261,
+        "reviews": []
+    },
+    {
+        "name" : "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
+        "price" : "27.99",
+        "description" : "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
+        "ratings" : 4.1,
+        "images" : [{
+            "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606233125/products/eahhtj1bkn1k9gjgd3hn.jpg"
+        }],
+        "category" : "Accessories",
+        "seller" : "Amazon",
+        "stock" : 1123,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black ",
+        "price" : "496.95",
+        "description" : "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+        "ratings" : 4.7,
+        "images" : [{
+            "public_id" : "products/camera_ridc0i",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/camera_ridc0i.jpg"
+        }],
+        "category" : "Cameras",
+        "seller" : "Amazon",
+        "stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray ",
+        "price" : "949.99",
+        "description" : "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "products/macbook_o2cj2k",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/macbook_o2cj2k.jpg"
+        }],
+        "category" : "Laptops",
+        "seller" : "Amazon",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Kauffman Orchards Homegrown McIntosh Apples",
+        "price" : "2.75",
+        "description" : "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/wmoa49q9e70ze9xtcra2",
+                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/wmoa49q9e70ze9xtcra2.jpg"
+            },
+            {
+                "public_id" : "products/i0k1wdwi5hrpmzwxvsds",
+                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/i0k1wdwi5hrpmzwxvsds.jpg" 
+            },
+            {
+                "public_id" : "products/bshmuo9qisfhz4azvnsd",
+                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/bshmuo9qisfhz4azvnsd.jpg"
+            }
+    ],
+        "category" : "Food",
+        "seller" : "Kauffman's Fruit Farm & Market",
+        "stock" : 500,
+        "numOfReviews" : 1,
+        "reviews": []
+    },
+    {
+        "name" : "Microsoft Surface Pro X 1876 13-inch Laptop (Microsoft SQ1/8GB/128GB SSD/Windows 10 Home/Microsoft SQ1 Adreno 685 GPU Graphics), Matte Black",
+        "price" : "85499.00",
+        "description" : "Processor: Powered by Qualcomm, the new custom Microsoft SQ1 processor delivers multitasking laptop performance, long battery life, and fast LTE and Wi-Fi.Operating System: Pre-loaded Windows 10 Home with lifetime validity.Display: 13 inch 2880 x 1920 PixelSense display | Touchscreen enabled,Memory & Storage : 8GB LPDDR4x RAM with Microsoft SQ1 Adreno 685 GPU Graphics| Storage: 128GB SSD.Design & Battery : Touchscreen 2-in-1 laptop | Thin and light design | Laptop weight: 0.77 kg | Average battery life = upto 13 hours.Ports & CD drive: 2 USB-C, 1 Surface Connect port, 1 nano SIM | Without CD drive.In the box details : Surface Pro X, Power Supply, Quick Start Guide, Safety and warranty documents (Mouse, Stylus Pen, Typecover are not Included – to be bought separately)  ",
+        "ratings" : 27,
+        "images" : [
+            {
+                "public_id" : "v1610815491/Microsoft1_awkcxf",
+                "url" : "https://res.cloudinary.com/dwimpn0nk/image/upload/v1610815491/Microsoft1_awkcxf.jpg"
+            },
+            {
+                "public_id" : "v1610815491/Microsoft3_xu7whb",
+                "url" : "https://res.cloudinary.com/dwimpn0nk/image/upload/v1610815491/Microsoft3_xu7whb.jpg" 
+            },
+            {
+                "public_id" : "v1610815491/Microsoft5_df6r48",
+                "url" : "https://res.cloudinary.com/dwimpn0nk/image/upload/v1610815491/Microsoft5_df6r48.jpg"
+            },
+            {
+                "public_id" : "v1610815491/Microsoft4_spukrg",
+                "url" : "https://res.cloudinary.com/dwimpn0nk/image/upload/v1610815491/Microsoft4_spukrg.jpg"
+            },
+            {
+                "public_id" : "v1610815491/Microsoft2_hsbd8h",
+                "url" : "https://res.cloudinary.com/dwimpn0nk/image/upload/v1610815491/Microsoft2_hsbd8h.jpg"
+            }
+    ],
+        "category" : "Laptops",
+        "seller" : "Amazon",
+        "stock" : 500,
+        "numOfReviews" : 5000,
+        "reviews": []
+    }
+]
